@@ -12,7 +12,7 @@ const slides = [
     ),
     subtitle: 'Premier IT company for mobile apps, websites, and desktop software',
     ctaLabel: 'Get Free Consultation',
-    // bg: 'https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1920&auto=format&fit=crop',
+    bg: 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop',
   },
   {
     titleTop: 'Custom Software Development',
