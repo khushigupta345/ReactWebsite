@@ -12,7 +12,7 @@ const slides = [
     ),
     subtitle: 'Premier IT company for mobile apps, websites, and desktop software',
     ctaLabel: 'Get Free Consultation',
-    bg: 'https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1920&auto=format&fit=crop',
+    // bg: 'https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1920&auto=format&fit=crop',
   },
   {
     titleTop: 'Custom Software Development',
@@ -72,8 +72,6 @@ export default function HomeCarousel() {
             <a href="#contact" className="btn btn-primary">{slide.ctaLabel}</a>
             <div style={{display:'flex', flexDirection:'row', color:"white"}}>
           
-              
-              
               <button className="fab fab-phone" aria-label="Call us">
               <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
                 <path d="M2 5.5C2 4.12 3.12 3 4.5 3h2A2.5 2.5 0 0 1 9 5.5v1A2.5 2.5 0 0 1 6.5 9H6a12.96 12.96 0 0 0 5 5v-.5A2.5 2.5 0 0 1 13.5 11h1A2.5 2.5 0 0 1 17 13.5v2A2.5 2.5 0 0 1 14.5 18h-1C7.71 18 2 12.29 2 5.5Z"/>
