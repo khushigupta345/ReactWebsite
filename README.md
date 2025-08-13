@@ -50,14 +50,10 @@ src/ ├── components/       # Reusable UI components (Navbar, Carousel, etc
    ```bash
    git clone https://github.com/khushigupta345/ReactWebsite.git
 
-1. Install dependencies:
-
-npm install
+1. Install dependencies:npm install
 
 
-3. Start the development server:
-
-npm start
+3. Start the development server:npm start
 
 
 4. Open http://localhost:3000 in your browser to view the app.
