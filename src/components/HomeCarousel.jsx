@@ -64,7 +64,7 @@ export default function HomeCarousel() {
         />
       ))}
       <div className="container hero-content two-col" >
-        <div className="hero-text" style={{fontFamily:'sans-serif'}}>
+        <div className="hero-text">
           <div className="kicker">{slide.titleTop}</div>
           <h1 className="headline">{slide.title}</h1>
           <p className="subhead">{slide.subtitle}</p>
