@@ -48,10 +48,9 @@ src/ ├── components/       # Reusable UI components (Navbar, Carousel, etc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/techmintlab-clone.git
-   cd techmintlab-clone
+   git clone https://github.com/khushigupta345/ReactWebsite.git
 
-2. Install dependencies:
+1. Install dependencies:
 
 npm install
 
